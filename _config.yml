@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student at CISPA"
   location         : "Saarbrücken, Germany"
-  employer         : "CISPA"
+  # employer         : "CISPA"
   uri              : # URL
   email            : "bo.shao@cispa.de" 
 
