@@ -31,6 +31,8 @@ a { TEXT-DECORATION:none }
 }
 </style>
 
+<p>You can also find my publications on <a href="https://scholar.google.com/citations?hl=en&user=2cHvrTgAAAAJ" target="_blank">Google Scholar</a>.</p>
+
 <h2 id='224'>2024</h2>
 
 ### <span style="color:rgb(39, 117, 182)">BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning</span>
