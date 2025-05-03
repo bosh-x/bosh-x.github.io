@@ -9,11 +9,7 @@ permalink: /teaching/
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+## Teaching Assistant
+---
 
-Heading 2
-======
-
-Heading 3
-======
+1. Lecture: _Stochastics and statistics_. LMU Munich, 2019 Summer
