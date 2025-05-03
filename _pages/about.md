@@ -15,6 +15,6 @@ LLM Safety
 
 Recent News
 ======
-[5/2025] I’ll start my PhD journey at CISPA Helmholtz Center for Information Security.
+ - [5/2025] I’ll start my PhD journey at CISPA Helmholtz Center for Information Security.
 
 
