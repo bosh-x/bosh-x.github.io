@@ -11,3 +11,10 @@ permalink: /teaching/
 ---
 
 1. Lecture: _Stochastics and statistics_. LMU Munich, 2019 Summer
+
+
+## Awards
+---
+
+1. China Internation College Students’ Innovation Competition 2024 (Shanghai) Bronze Prize
+
