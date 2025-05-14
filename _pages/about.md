@@ -15,6 +15,8 @@ LLM Safety
 
 Recent News
 ======
+ - [5/2025] One paper accepted to ACL 2025 (main) 🌴 Hope to see y’all in Vienna, Austria 🇦🇹
+
  - [5/2025] I joined CISPA Helmholtz Center for Information Security to start my PhD!
 
 
