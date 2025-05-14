@@ -40,7 +40,7 @@ a { TEXT-DECORATION:none }
 <br><i>ACL 2025</i></font><br>
 <a href="https://arxiv.org/abs/2406.17764" class="btn--arxiv" target="_blank">arxiv</a>
 
-<span style="color:gray; font-size: 0.8em;">*denotes equal contribution</span></font><br>
+<span style="color:gray; font-size: 0.8em;">*denotes equal contribution</span><br>
 <!-- <a href="" class="btn--arxiv" target="_blank">arxiv</a> -->
 <!-- <a href="" class="btn--code" target="_blank">code</a> -->
 
