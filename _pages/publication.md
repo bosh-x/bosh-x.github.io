@@ -36,7 +36,7 @@ a { TEXT-DECORATION:none }
 <h2 id='224'>2025</h2>
 ### <span style="color:rgb(39, 117, 182)">Toward Reliable VLM: A Fine-Grained Benchmark and Framework for Exposure, Bias, and Inference in Korean Street Views</span>
 <font size="3">Xiaonan Wang, <b>Bo Shao</b>, Hansaem Kim
-<br><i>to appear</i></font><br>
+<br><i>Submitted to EMNLP 2025 (under review)</i></font><br>
 <!-- <a href="https://arxiv.org/abs/2406.17764v2" class="btn--arxiv" target="_blank">arxiv</a> -->
 
 
