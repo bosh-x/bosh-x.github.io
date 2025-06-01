@@ -33,6 +33,13 @@ a { TEXT-DECORATION:none }
 
 <p>You can also find my publications on <a href="https://scholar.google.com/citations?hl=en&user=2cHvrTgAAAAJ" target="_blank">Google Scholar</a>.</p>
 
+<h2 id='224'>2025</h2>
+### <span style="color:rgb(39, 117, 182)">Toward Reliable VLM: A Fine-Grained Benchmark and Framework for Exposure, Bias, and Inference in Korean Street Views</span>
+<font size="3">Xiaonan Wang, <b>Bo Shao</b>, Hansaem Kim
+<br><i>to appear</i></font><br>
+<!-- <a href="https://arxiv.org/abs/2406.17764v2" class="btn--arxiv" target="_blank">arxiv</a> -->
+
+
 <h2 id='224'>2024</h2>
 
 ### <span style="color:rgb(39, 117, 182)">BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning</span>
