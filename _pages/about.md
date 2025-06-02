@@ -11,7 +11,9 @@ I am currently a Ph.D. student at [CISPA Helmholtz Center for Information Securi
 
 Research Interests
 ======
-LLM Safety
+LLM Safety, LLM Agent
+
+**I am always open to collaborations and discussions!** If you are interested in my research or have any ideas to share, feel free to reach out. Let's explore exciting opportunities together!
 
 Recent News
 ======
