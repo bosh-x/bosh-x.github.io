@@ -6,15 +6,18 @@ permalink: /teaching/
 # date: 2014-01-01
 # location: "City, Country"
 ---
+## Reviewer
+- 2025: SRW @ ACL
+
 
 ## Teaching Assistant
 ---
 
-1. Lecture: _Stochastics and statistics_. LMU Munich, 2019 Summer
+- Lecture: _Stochastics and statistics_. LMU Munich, 2019 Summer
 
 
 ## Awards
 ---
 
-1. China Internation College Students’ Innovation Competition 2024 (Shanghai) Bronze Prize
+- China Internation College Students’ Innovation Competition 2024 (Shanghai) Bronze Prize
 
