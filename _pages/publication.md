@@ -44,7 +44,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning</span>
 <font size="3">Ercong Nie<sup>*</sup>, <b>Bo Shao<sup>*</sup></b>, Mingyang Wang, Zifeng Ding, Helmut Schmid, Hinrich Schütze
-<br><i>ACL 2025</i></font><br>
+<br><i>ACL 2025 (oral, 243/3000, 8%)</i></font><br>
 <a href="https://arxiv.org/abs/2406.17764v2" class="btn--arxiv" target="_blank">arxiv</a>
 
 <span style="color:gray; font-size: 0.8em;">*denotes equal contribution</span><br>

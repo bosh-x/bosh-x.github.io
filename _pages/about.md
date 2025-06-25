@@ -19,7 +19,7 @@ Recent News
 ======
  - [6/2025] I am serving as a reviewer for the ACL 2025 SRW.
 
- - [5/2025] One paper accepted to ACL 2025 (main) 🌴 Hope to see y’all in Vienna, Austria 🇦🇹
+ - [5/2025] One paper accepted to ACL 2025 (oral presentation, 243/3000, 8%) 🌴 Hope to see y’all in Vienna, Austria 🇦🇹
 
  - [5/2025] I joined CISPA Helmholtz Center for Information Security to start my PhD!
 
