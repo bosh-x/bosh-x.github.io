@@ -17,6 +17,9 @@ LLM Safety, LLM Agent
 
 Recent News
 ======
+
+ - [6/2025] I was invited to review for *Neurocomputing* (Elsevier, SCI Q1, IF: 6.5).
+
  - [6/2025] I am serving as a reviewer for the ACL 2025 SRW.
 
  - [5/2025] One paper accepted to ACL 2025 (oral presentation, 243/3000, 8%) 🌴 Hope to see y’all in Vienna, Austria 🇦🇹
