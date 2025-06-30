@@ -13,6 +13,8 @@ permalink: /teaching/
 - **Neurocomputing, 2025**  
   Invited reviewer for *Neurocomputing* (Elsevier), a Q1 journal in Computer Science - Artificial Intelligence (Impact Factor: 6.5).
 
+- **NLPCC 2025**  
+
 
 ## Projects
 ---
