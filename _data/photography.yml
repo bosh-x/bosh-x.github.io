@@ -1,0 +1,4 @@
+ - image_path: /images/photography/photo1.png
+   caption: "这里是第一张照片的描述"
+ - image_path: /images/photography/photo2.png
+   caption: "这里是第二张照片的描述"

@@ -1,3 +1,9 @@
+# Local Test
+
+docker-compose up
+
+http://127.0.0.1:4000/
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
