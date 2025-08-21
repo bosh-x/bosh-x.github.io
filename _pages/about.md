@@ -18,11 +18,13 @@ LLM Safety, LLM Agent
 Recent News
 ======
 
+ - [8/2025] Our paper *Toward Reliable VLM: A Fine-Grained Benchmark and Framework for Exposure, Bias, and Inference in Korean Street Views* was accepted to EMNLP 2025.
+
  - [6/2025] I was invited to review for *Neurocomputing* (Elsevier, SCI Q1, IF: 6.5).
 
  - [6/2025] I am serving as a reviewer for the ACL 2025 SRW.
 
- - [5/2025] One paper accepted to ACL 2025 (oral presentation, 243/3000, 8%) 🌴 Hope to see y’all in Vienna, Austria 🇦🇹
+ - [5/2025] One paper *BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning* was accepted to ACL 2025 (oral presentation, 243/3000, 8%) 🌴 Hope to see y’all in Vienna, Austria 🇦🇹
 
  - [5/2025] I joined CISPA Helmholtz Center for Information Security to start my PhD!
 
