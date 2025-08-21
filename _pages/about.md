@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de), supervised by [Prof.Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my master’s degree in Computer Science from the Technical University of Munich, where I conducted my thesis in the research group of [Prof. Hinrich Schütze](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en), and my bachelor’s degree in Computer Science with Distinction from the LMU Munich under the supervision of [Prof. Thomas Seidl](https://www.dbs.ifi.lmu.de/cms/personen/professoren/seidl/index.html). I also have professional experience in software development, having independently developed the [Infineon Chatbot](https://chatbot.infineon.com/) during my time at Infineon Technologies.
+I am currently a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de), supervised by [Prof. Dr. Yang Zhang](https://yangzhangalmo.github.io/). Before that, I obtained my master’s degree in Computer Science from the Technical University of Munich, where I conducted my thesis in the research group of [Prof. Dr. Hinrich Schütze](https://scholar.google.com/citations?user=qIL9dWUAAAAJ&hl=en), and my bachelor’s degree in Computer Science with Distinction from the LMU Munich under the supervision of [Prof. Dr. Thomas Seidl](https://www.dbs.ifi.lmu.de/cms/personen/professoren/seidl/index.html). I also have professional experience in software development, having independently developed the [Infineon Chatbot](https://chatbot.infineon.com/) during my time at Infineon Technologies.
 
 Research Interests
 ======
