@@ -18,8 +18,7 @@ LLM Safety, LLM Agent
 Recent News
 ======
 
- - [8/2025] Our paper *AI Knows Where You Are: Exposure, Bias, and Inference in Multimodal Geolocation with KoreaGEO
-* was accepted to EMNLP 2025.
+ - [8/2025] Our paper *AI Knows Where You Are: Exposure, Bias, and Inference in Multimodal Geolocation with KoreaGEO* was accepted to EMNLP 2025.
 
  - [6/2025] I was invited to review for *Neurocomputing* (Elsevier, SCI Q1, IF: 6.5).
 

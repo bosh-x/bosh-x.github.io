@@ -37,7 +37,7 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">AI Knows Where You Are: Exposure, Bias, and Inference in Multimodal Geolocation with KoreaGEO</span>
 <font size="3">Xiaonan Wang, <b>Bo Shao</b>, Hansaem Kim
 <br><i>EMNLP 2025</i></font><br>
-<a href="https://openreview.net/forum?id=8pohiyUemj" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/abs/2506.03371" class="btn--arxiv" target="_blank">arxiv</a>
 
 
 ### <span style="color:rgb(39, 117, 182)">BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning</span>
