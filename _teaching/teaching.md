@@ -7,13 +7,15 @@ permalink: /teaching/
 # location: "City, Country"
 ---
 ## Reviewer
+
+### Journals
+- **Neurocomputing, 2025**
+
+### Conferences & Workshops
 - **ACL SRW 2025**  
-  Reviewed submissions for the Student Research Workshop at ACL 2025.
-
-- **Neurocomputing, 2025**  
-  Invited reviewer for *Neurocomputing* (Elsevier), a Q1 journal in Computer Science - Artificial Intelligence (Impact Factor: 6.5).
-
 - **NLPCC 2025**  
+- **NeurIPS 2025 Workshop LXAI**  
+- **NeurIPS 2025 Workshop MTI-LLM**
 
 
 ## Projects
