@@ -10,6 +10,7 @@ permalink: /teaching/
 
 ### Journals
 - **Neurocomputing, 2025**
+- **ACM Transactions on Privacy and Security (TOPS), 2025**
 
 ### Conferences & Workshops
 - **ACL SRW 2025**  
@@ -29,7 +30,8 @@ permalink: /teaching/
 ## Teaching Assistant
 ---
 
-- Lecture: _Stochastics and statistics_. LMU Munich, 2019 Summer
+- _AI Safety_. Saarland University, 2025 Winter
+- _Stochastics and statistics_. LMU Munich, 2019 Summer
 
 
 ## Awards
