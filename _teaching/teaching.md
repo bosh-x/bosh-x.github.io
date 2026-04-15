@@ -6,6 +6,15 @@ permalink: /teaching/
 # date: 2014-01-01
 # location: "City, Country"
 ---
+
+## Teaching Assistant
+---
+
+- _Data-driven Understanding of the Disinformation Epidemic_. Saarland University, 2026 Summer
+- _AI Safety_. Saarland University, 2025 Winter
+- _Stochastics and statistics_. LMU Munich, 2019 Summer
+
+
 ## Reviewer
 
 ### Journals
@@ -25,13 +34,6 @@ permalink: /teaching/
 - **PriSyn: Representative Synthetic Health Data with Strong Privacy Guarantees** (2022–2025)  
   *BMBF-funded project (€2.2M) coordinated by CISPA, DZNE, HPE, and QuantPi*  
   <!-- Funded PhD researcher under the PriSyn project, which aims to develop synthetic biomedical data with strong differential privacy guarantees. My research is aligned with privacy auditing and evaluation of trustworthy generative models. Supervised by Prof. Dr. Mario Fritz and Dr. Yang Zhang at CISPA. -->
-
-
-## Teaching Assistant
----
-
-- _AI Safety_. Saarland University, 2025 Winter
-- _Stochastics and statistics_. LMU Munich, 2019 Summer
 
 
 ## Awards
