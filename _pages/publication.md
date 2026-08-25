@@ -33,13 +33,14 @@ a { TEXT-DECORATION:none }
 
 <p>You can also find my publications on <a href="https://scholar.google.com/citations?hl=en&user=2cHvrTgAAAAJ" target="_blank">Google Scholar</a>.</p>
 
-<h2 id='224'>2025</h2>
+<h2 id='224'>2026</h2>
 
 ### <span style="color:rgb(39, 117, 182)">MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis</span>
 <font size="3"><b>Bo Shao</b>, Yihan Ma, Yiting Qu, Michael Backes, Yang Zhang
 <br><i>EMNLP 2026 Findings</i></font><br>
 <!-- <a href="https://arxiv.org/abs/2506.03371" class="btn--arxiv" target="_blank">arxiv</a> -->
 
+<h2 id='224'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">AI Knows Where You Are: Exposure, Bias, and Inference in Multimodal Geolocation with KoreaGEO</span>
 <font size="3">Xiaonan Wang, <b>Bo Shao</b>, Hansaem Kim
