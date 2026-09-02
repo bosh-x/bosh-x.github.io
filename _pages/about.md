@@ -18,7 +18,7 @@ LLM Safety, LLM Agent
 Recent News
 ======
 
- - [8/2026] Our paper *MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis* was accepted to EMNLP 2026.
+ - [8/2026] Our paper *MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis* was accepted to EMNLP Findings 2026.
 
  - [4/2026] I have successfully passed the Qualifying Exam (QE)!
 
