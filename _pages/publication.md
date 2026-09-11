@@ -35,6 +35,11 @@ a { TEXT-DECORATION:none }
 
 <h2 id='224'>2026</h2>
 
+### <span style="color:rgb(39, 117, 182)">Does AI Amplify Online Hate? A Multi-Modal Measurement Study on 4chan's /pol/</span>
+<font size="3"><b>Bo Shao</b>, Xinyue Shen, Yang Zhang
+<br><i>ACM Conference on Computer and Communications Security (CCS), 2026</i></font><br>
+<!-- <a href="https://arxiv.org/abs/XXXX.XXXXX" class="btn--arxiv" target="_blank">arxiv</a> -->
+
 ### <span style="color:rgb(39, 117, 182)">MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis</span>
 <font size="3"><b>Bo Shao</b>, Yihan Ma, Yiting Qu, Michael Backes, Yang Zhang
 <br><i>EMNLP 2026 Findings</i></font><br>
