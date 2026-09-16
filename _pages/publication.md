@@ -33,6 +33,13 @@ a { TEXT-DECORATION:none }
 
 <p>You can also find my publications on <a href="https://scholar.google.com/citations?hl=en&user=2cHvrTgAAAAJ" target="_blank">Google Scholar</a>.</p>
 
+<h2 id='224'>2027</h2>
+
+### <span style="color:rgb(39, 117, 182)">Can We Trust LLM Security Research? A Reproducibility Study of Large Language Model Security Papers in Tier-1 Security Conferences</span>
+<font size="3">Zeyuan Chen, Ye Leng, Chi Cui, Mengfei Liang, <b>Bo Shao</b>, Xinyu Zhang, Yun Shen, Michael Backes, Xinyue Shen, Yang Zhang;
+<br><i>IEEE S&P, 2026</i></font><br>
+
+
 <h2 id='224'>2026</h2>
 
 ### <span style="color:rgb(39, 117, 182)">Does AI Amplify Online Hate? A Multi-Modal Measurement Study on 4chan's /pol/</span>

@@ -18,19 +18,21 @@ LLM Safety, LLM Agent
 Recent News
 ======
 
- - [9/2026] Our paper *Does AI Amplify Online Hate? A Multi-Modal Measurement Study on 4chan's /pol/* was accepted to ACM CCS 2026.
+ - [9/2026] Our paper *Can We Trust LLM Security Research? A Reproducibility Study of Large Language Model Security Papers in Tier-1 Security Conference* was accepted to [IEEE S&P 2027](https://sp2027.ieee-security.org/index.html).
+
+ - [9/2026] Our paper *Does AI Amplify Online Hate? A Multi-Modal Measurement Study on 4chan's /pol/* was accepted to [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026/index.html).
  
- - [8/2026] Our paper *MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis* was accepted to EMNLP Findings 2026.
+ - [8/2026] Our paper *MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis* was accepted to [EMNLP Findings 2026 ](https://2026.emnlp.org/).
 
  - [4/2026] I have successfully passed the Qualifying Exam (QE)!
 
- - [8/2025] Our paper *AI Knows Where You Are: Exposure, Bias, and Inference in Multimodal Geolocation with KoreaGEO* was accepted to EMNLP 2025.
+ - [8/2025] Our paper *AI Knows Where You Are: Exposure, Bias, and Inference in Multimodal Geolocation with KoreaGEO* was accepted to [EMNLP 2025 ](https://2025.emnlp.org/).
 
  - [6/2025] I was invited to review for *Neurocomputing* .
 
  - [6/2025] I am serving as a reviewer for the ACL 2025 SRW.
 
- - [5/2025] Our paper *BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning* was accepted to ACL 2025 (oral presentation, 243/3000, 8%) 🌴 Hope to see y’all in Vienna, Austria 🇦🇹
+ - [5/2025] Our paper *BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning* was accepted to [ACL 2025 ](https://2025.aclweb.org/) (oral presentation, 243/3000, 8%) 🌴 Hope to see y’all in Vienna, Austria 🇦🇹
 
  - [5/2025] I joined CISPA Helmholtz Center for Information Security to start my PhD!
 
