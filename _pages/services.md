@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /teaching/
-# venue: "University 1, Department"
-# date: 2014-01-01
-# location: "City, Country"
+permalink: /services/
+author_profile: true
+redirect_from:
+  - /teaching/
+  - /teaching.html
 ---
 
 ## Teaching Assistant
