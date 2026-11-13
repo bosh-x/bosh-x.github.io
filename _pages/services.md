@@ -27,7 +27,9 @@ redirect_from:
 - **NLPCC 2025**  
 - **NeurIPS 2025 Workshop LXAI**  
 - **NeurIPS 2025 Workshop MTI-LLM**
-
+- **NeurIPS 2026 Workshop Meta-Agents**  
+- **ACM CIKM 2026 Workshop LASS**  
+- **ACL ARR 2026 October**  
 
 ## Projects
 ---

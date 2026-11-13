@@ -46,6 +46,7 @@ a { TEXT-DECORATION:none }
 <font size="3"><b>Bo Shao</b>, Xinyue Shen, Yang Zhang
 <br><i>ACM Conference on Computer and Communications Security (CCS), 2026</i></font><br>
 <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX" class="btn--arxiv" target="_blank">arxiv</a> -->
+<a href="https://www.growkudos.com/publications/10.1145%25252F3830454.3846752/reader" class="btn--arxiv" target="_blank">Kudos</a>
 
 ### <span style="color:rgb(39, 117, 182)">MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis</span>
 <font size="3"><b>Bo Shao</b>, Yihan Ma, Yiting Qu, Michael Backes, Yang Zhang
